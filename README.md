@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://naeem.chakera.uk/naeem-bike-photo.jpg" width="260" alt="Naeem Chakera"/>
-  <br/>
-  <sub>📸 photo booth · fort collins, co</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/photobooth-dark.svg">
+    <img src="assets/photobooth-light.svg" width="300" alt="Naeem Chakera photo booth">
+  </picture>
 </p>
 
 ### Hey!
