@@ -5,11 +5,11 @@
 
 ### Hey!
 
-👾 I'm **Naeem**.
+I'm **Naeem**.
 
-🛠️ A Computer Engineering student at Colorado State University who likes working where hardware, software and the person using them meet.
+A Computer Engineering student at Colorado State University who likes working where hardware, software and the person using them meet.
 
-🎫 I do front-line IT support at CSU's Morgan Library, and I'm open to software, CE & IT support internships.
+I do front-line IT support at CSU's Morgan Library, and I'm open to software, CE & IT support internships.
 
 [![portfolio](https://img.shields.io/badge/portfolio-naeem.chakera.uk-313131?style=flat&labelColor=545454)](https://naeem.chakera.uk)
 [![linkedin](https://img.shields.io/badge/linkedin-naeemchakera-313131?style=flat&labelColor=545454)](https://www.linkedin.com/in/naeemchakera/)
@@ -17,11 +17,11 @@
 
 <br clear="left"/>
 
-#### ⚡ At a glance
+#### At a glance
 
 I've been an IT Support Intern at Morgan Library since **Feb 2025**. I clear hardware and account issues there and wrote **20+** FreshService canned responses so users get a complete fix without a follow-up ticket. Before CSU, I helped deploy a **uniCenta POS on MySQL** for a hardware store in Mombasa and trained the staff to run it on their own. I graduate in **Spring 2028**.
 
-#### 🌀 Projects
+#### Projects
 
 | **Software** | **Hardware & Systems** |
 |---|---|
@@ -29,7 +29,7 @@ I've been an IT Support Intern at Morgan Library since **Feb 2025**. I clear har
 
 Tip: the full story behind each project is on [naeem.chakera.uk](https://naeem.chakera.uk/#projects).
 
-#### 🛠️ What am I working on?
+#### What am I working on?
 
 | **Category** | **Description** |
 |---|---|
@@ -43,6 +43,6 @@ Tip: the full story behind each project is on [naeem.chakera.uk](https://naeem.c
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/naeemchakera/) · [Email](mailto:chakeranaeem@gmail.com) · [Resume](https://naeem.chakera.uk/resume_naeem_chakera.pdf)
+[LinkedIn](https://www.linkedin.com/in/naeemchakera/) · [Email](mailto:chakeranaeem@gmail.com) · [Resume](https://naeem.chakera.uk/resume_naeem_chakera.pdf)
 
 **~** [*naeem.chakera.uk*](https://naeem.chakera.uk)
