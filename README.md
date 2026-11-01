@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="photobooth-dark.svg">
-  <img src="photobooth-light.svg" width="300" align="left" alt="Naeem Chakera photo booth">
+  <source media="(prefers-color-scheme: dark)" srcset="photobooth-dark.svg?v=2">
+  <img src="photobooth-light.svg?v=2" width="300" align="left" alt="Naeem Chakera photo booth">
 </picture>
 
 ### Hey!
