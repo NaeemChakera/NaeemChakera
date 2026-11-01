@@ -1,9 +1,7 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="photobooth-dark.svg">
-    <img src="photobooth-light.svg" width="300" alt="Naeem Chakera photo booth">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="photobooth-dark.svg">
+  <img src="photobooth-light.svg" width="300" align="left" alt="Naeem Chakera photo booth">
+</picture>
 
 ### Hey!
 
@@ -16,6 +14,8 @@
 [![portfolio](https://img.shields.io/badge/portfolio-naeem.chakera.uk-313131?style=flat&labelColor=545454)](https://naeem.chakera.uk)
 [![linkedin](https://img.shields.io/badge/linkedin-naeemchakera-313131?style=flat&labelColor=545454)](https://www.linkedin.com/in/naeemchakera/)
 [![resume](https://img.shields.io/badge/resume-pdf-313131?style=flat&labelColor=545454)](https://naeem.chakera.uk/resume_naeem_chakera.pdf)
+
+<br clear="left"/>
 
 #### ⚡ At a glance
 
